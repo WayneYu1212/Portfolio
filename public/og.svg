@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">余宇颖个人网站分享图</title>
+  <desc id="desc">纸张背景上的像素桌面、档案窗口和青蓝色标题。</desc>
+  <rect width="1200" height="630" fill="#f8f3e7"/>
+  <path d="M58 72h1084v486H58z" fill="#fffdf6" stroke="#171717" stroke-width="8"/>
+  <path d="M96 120h340v84H96z" fill="#00bcd4" stroke="#171717" stroke-width="6"/>
+  <path d="M720 118h308v252H720z" fill="#f6ff3f" stroke="#171717" stroke-width="6"/>
+  <path d="M754 158h240M754 204h180M754 250h214" stroke="#171717" stroke-width="8"/>
+  <path d="M142 300h448v170H142z" fill="#ffffff" stroke="#171717" stroke-width="6"/>
+  <path d="M180 350h250M180 398h340" stroke="#171717" stroke-width="8"/>
+  <text x="100" y="174" font-family="Arial, sans-serif" font-size="48" font-weight="800" fill="#171717">YU YUYING</text>
+  <text x="100" y="260" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#171717">Stories, systems, and small worlds.</text>
+</svg>
